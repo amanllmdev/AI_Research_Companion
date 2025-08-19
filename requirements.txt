@@ -1,0 +1,10 @@
+crewai
+python-dotenv
+streamlit
+pypdf
+crewai-tools
+langchain
+litellm
+sentence-transformers
+torch
+transformers
